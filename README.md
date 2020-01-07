@@ -1,4 +1,4 @@
-## Introduction
+# Zoo Admin App
 
 This project is a zoo administration program, written in Java and using Swing to create the GUI.
 
